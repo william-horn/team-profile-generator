@@ -20,6 +20,7 @@ To use this application, simply clone this repository on your local system. You 
 
   ## Tests
   Find a sample of a Team Profile Generator page by [clicking here](https://william-horn.github.io/team-profile-generator-EXAMPLE/)
+  (or visit the repository here: <https://github.com/william-horn/team-profile-generator-EXAMPLE>)
   ## Contributors
   Contributors: 
   William J. Horn
